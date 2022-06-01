@@ -12,10 +12,11 @@ In this project, we have analysed the COVID 19 Deaths and Vaccination given to p
 
 # Steps for Exploration are as Follows :
 
-1. Getting the Dataset from the source.
-2. Cleaning the Dataset in MS Excel.
-3. Dividing the Excel into 2 parts - 
+1. Got the Dataset from the source.
+2. Cleaned the Dataset in MS Excel.
+3. Divided the Excel into 2 parts - 
   i.) Covid_Deaths.
-  ii.) Covid_vaccinations.
-4. Importing Datasets into SQL Server Management Studio.
-5. Doing Data Exploration using SQL Queries.
+  ii.) Covid_Vaccinations.
+4. Imported Datasets into SQL Server Management Studio.
+5. Done Data Exploration using SQL Queries.
+6. Later this data will be used for visualization.
