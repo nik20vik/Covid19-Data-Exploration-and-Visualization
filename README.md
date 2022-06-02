@@ -1,5 +1,9 @@
 # Coronavirus (COVID-19) Data Exploration and Visualization Project
 
+## About COVID 19
+
+Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Anyone can get sick with COVID-19 and become seriously ill or die at any age. The best way to prevent and slow down transmission is to be well informed about the disease and how the virus spreads.Get vaccinated when it’s your turn and follow local guidance.
+
 This is the Data Exploration and Visualization Project on Covid-19 Dataset done using MS Excel, Microsoft SQL Server Management Studio and Tableau.
 
 # Steps for Exploration and Visualization are as follows :
