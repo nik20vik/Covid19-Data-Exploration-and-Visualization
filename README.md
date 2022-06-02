@@ -35,13 +35,48 @@ In this project, Analysed the COVID 19 Deaths and Vaccination given to people al
 
 ![](imgs/CovidVaccinations.png)
 
-# Loaded Dataset to MS SQL SSMS
+# Analysed the data using SQL queries, using CTE and created Temp Table, view to store data for later visualization in Tableau.
 
 In MS SQL Server Management Studio created queries to analyze data of two tables : 
 CovidDeaths and CovidVaccinations
 
+## SQL Queries
 
-# Analysed the data using SQL queries and created Temp Table, view to store data for later visualization in Tableau.
+![](imgs/SQLQueries.png)
+
+## Joining both tables for Total Population V/S Vaccinations
+
+![](imgs/SQLJoiningTables.png)
+
+## Using CTE to make Temp Table
+
+![](imgs/SQLUsingCTE.png)
+
+## Temp Table Created
+
+![](imgs/SQLTempTable.png)
+
+## View Query for Visualization
+
+![](imgs/SQlViewQuery.png)
+
+# Created Tableau Tables using SQL Queries and Dashboard using Tableau Public
+
+Using the MS SQL SSMS created SQL queries to make tableau tables for visualizations.
+
+## SQL Tableau Table Query 1
+
+
+
+## SQL Tableau Table Query 1
+
+
+
+## SQL Tableau Table Query 1
+
+
+
+## SQL Tableau Table Query 1
 
 ## Tableau Table 1
 
@@ -59,9 +94,8 @@ CovidDeaths and CovidVaccinations
 
 ![](imgs/TableauTable2.png)
 
-
 # Tableau Dashboard
 
 ![](imgs/TableauDashboard.png)
 
-# Done Data Exploration and Visualization of the COVID 19 Dataset using MS Excel, MS SQL SSMS, Tableau.
+## Done Data Exploration and Visualization of the COVID 19 Dataset using MS Excel, MS SQL SSMS, Tableau.
