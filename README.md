@@ -9,9 +9,9 @@ This is the Data Exploration and Visualization Project on Covid-19 Dataset done 
 3. Divided the Dataset into two excel sheets - 
   i.) Covid_Deaths.
   ii.) Covid_Vaccinations.
-4. Imported Datasets into SQL SSMS.
+4. Imported Datasets into SQL SMS.
 5. Done Data Exploration using SQL Queries.
-6. Created four Tableau Queries in SQL SSMS for Excel Sheets.
+6. Created four Tableau Queries in SQL SMS for Excel Sheets.
 7. Done Visualization on Tableau of four tables.
 8. Created Tableau Dashboard.
 
@@ -62,21 +62,25 @@ CovidDeaths and CovidVaccinations
 
 # Created Tableau Tables using SQL Queries and Dashboard using Tableau Public
 
-Using the MS SQL SSMS created SQL queries to make tableau tables for visualizations.
+Using the MS SQL SMS created SQL queries to make tableau tables for visualizations.
 
 ## SQL Tableau Table Query 1
 
+![](imgs/SQLTableauQuery1.png)
 
+## SQL Tableau Table Query 2
 
-## SQL Tableau Table Query 1
+![](imgs/SQLTableauQuery2.png)
 
+## SQL Tableau Table Query 3
 
+![](imgs/SQLTableauQuery3.png)
 
-## SQL Tableau Table Query 1
+## SQL Tableau Table Query 4
 
+![](imgs/SQLTableauQuery4.png)
 
-
-## SQL Tableau Table Query 1
+# Tableau Tables for Visualizations
 
 ## Tableau Table 1
 
@@ -94,8 +98,10 @@ Using the MS SQL SSMS created SQL queries to make tableau tables for visualizati
 
 ![](imgs/TableauTable2.png)
 
+## At Last Created the Dashboard with all the tables included.
+
 # Tableau Dashboard
 
 ![](imgs/TableauDashboard.png)
 
-## Done Data Exploration and Visualization of the COVID 19 Dataset using MS Excel, MS SQL SSMS, Tableau.
+## Done Data Exploration and Visualization of the COVID 19 Dataset using MS Excel, MS SQL SMS, Tableau.
