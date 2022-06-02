@@ -23,7 +23,7 @@ This is the Data Exploration Project on Covid-19 Dataset done using MS Excel, Mi
 
 ![](imgs/SourceDataset.png)
 
-In this project, we have analysed the COVID 19 Deaths and Vaccination given to people all over the world.
+In this project, Analysed the COVID 19 Deaths and Vaccination given to people all over the world.
 
 # Divided Source Excel Sheet into 2 Sheets : Covid_Deaths and Covid_Vaccinations
 
