@@ -1,6 +1,6 @@
-# Coronavirus (COVID-19) Data Exploration Project
+# Coronavirus (COVID-19) Data Exploration and Visualization Project
 
-This is the Data Exploration Project on Covid-19 Dataset done using MS Excel, Microsoft SQL Server Management Studio and Tableau.
+This is the Data Exploration and Visualization Project on Covid-19 Dataset done using MS Excel, Microsoft SQL Server Management Studio and Tableau.
 
 # Steps for Exploration and Visualization are as follows :
 
@@ -34,6 +34,11 @@ In this project, Analysed the COVID 19 Deaths and Vaccination given to people al
 ## Covid Vaccinations
 
 ![](imgs/CovidVaccinations.png)
+
+# Loaded Dataset to MS SQL SSMS
+
+In MS SQL Server Management Studio created queries to analyze data of two tables : 
+CovidDeaths and CovidVaccinations
 
 
 # Analysed the data using SQL queries and created Temp Table, view to store data for later visualization in Tableau.
